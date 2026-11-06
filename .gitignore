@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
+*.webm
+/envelope_closed.png
+/card_opened.png
+/standalone_snap.png
+/standalone_opened.png
